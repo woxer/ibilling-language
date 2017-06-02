@@ -10,7 +10,7 @@ Author Website: http://www.ibilling.io
 
 $_L['Login'] = 'Login';
 $_L['Edit'] = 'Edit';
-$_L['Delete'] = 'Delete';
+$_L['Delete'] = 'Smazat';
 $_L['Account'] = 'Account';
 $_L['Date'] = 'Date';
 $_L['Financial_Balances'] = 'Financial Balances';
@@ -129,7 +129,7 @@ $_L['Payers'] = 'Payers';
 $_L['Payment_Methods'] = 'Payment Methods';
 $_L['Users'] = 'Users';
 $_L['Application_Settings'] = 'Application Settings';
-$_L['My_Account'] = 'My Account';
+$_L['My_Account'] = 'Můj účet';
 $_L['Edit_Profile'] = 'Edit Profile';
 $_L['Change_Password'] = 'Change Password';
 $_L['Logout'] = 'Logout';
